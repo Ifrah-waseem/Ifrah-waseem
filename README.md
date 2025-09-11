@@ -1,5 +1,15 @@
 # PF-LAB03-25K3013
-This is introduction to GITHUB .  
-MY name is Ifrah waseem.
-I enjoy  solving problems.
-I love doing practical coding and scratch projects.
+# GITHUB LEARNING
+1. skills
+2. learning
+3. innovation
+4. practice
+- build
+- your
+- career
+- strong
+**welcome to github**
+  _lets learn github_
+  
+
+   
