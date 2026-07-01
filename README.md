@@ -30,3 +30,4 @@ Software Engineering student at FAST University.
 
 ## Contact
 * Email: ifrahwaseem2203@gmail.com
+* Linkedin: www.linkedin.com/in/ifrah-waseem-304671406
