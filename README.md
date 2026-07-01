@@ -21,6 +21,9 @@ Software Engineering student at FAST University.
 * Restaurant Management System (C)
 
   * Console-based application featuring menu management, customer ordering, admin controls, file handling, and receipt generation.
+   
+* ESP32 IOT BASED WESTHER STATION (C++)
+  * Iot based weather station based on real-world weather monitoring system: includes measuring temperature,humidity,altitude and pressure.  
 
 ## Currently Learning
 
